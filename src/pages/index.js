@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>React Shop</title>
+        <title>Next Store</title>
       </Head>
       <ProductList />
     </>
