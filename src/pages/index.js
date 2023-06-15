@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Next Store</title>
+        <title>Next-Store</title>
       </Head>
       <ProductList />
     </>
